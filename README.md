@@ -34,5 +34,7 @@ Known Issues and Challenges
 Chess game data is readily available via many free online databases, so getting the data is not an issue. 
 
 Some issues I ran into:
+
 •	The dataset was large enough to be problematic in an of itself- my code frequently ran slowly, and I had to be careful the order in which I ran my code to avoid running out of space on my computer.
+
 •	After getting the data into a format useable in Python, the data for each game was in string format with no separations, so I had to make careful use of Python regex to pull out each piece of information. It was especially tricky to separate out opening moves from standard chess notation into separate columns in a Pandas dataframe. 
