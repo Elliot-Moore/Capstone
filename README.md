@@ -1,9 +1,11 @@
 Executive Summary
 
 I enjoy chess, so I focused my Capstone project on analyzing chess openings using Python. My goal is to use current chess opening data to recommend openings that are uncommon and leave common chess opening theory quickly. I will be using a chess database of master level games for this analysis. 
+
 Motivation
 
 I have been a huge chess nerd for many years- I follow the latest chess news, enjoy playing chess and some of its variants, and am especially fascinated with computer chess- that is, chess engines playing each other and the games they produce. I’m the kind of person who likes to see hard data with everything, and chess is no exception. One area with extensive numbers and records in chess is the opening phase of the game, which fit perfectly as the subject of my Capstone project. 
+
 Data Question
 
 Can I use data analysis on chess openings to find the best openings for a human player to use to avoid chess opening theory? 
@@ -26,6 +28,7 @@ Schedule (through 1/7/2022)
 Data Sources
 
 Caissabase- a free regularly updated chess database containing around 4.56 million chess master level games. This database combines several other databases and sources of games to be as all-encompassing as possible, which was very helpful for me. I solely used Caissabase for my game data. 
+
 Known Issues and Challenges
 
 Chess game data is readily available via many free online databases, so getting the data is not an issue. 
